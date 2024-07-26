@@ -1,0 +1,65 @@
+h1{
+    color: aqua;
+    background-color: black;
+    
+}
+.a,.b{
+    color: blue;
+    background-color: cornsilk;
+    font-size: 24px;
+}
+.b{
+    color: red;
+}
+.c,.d{
+    color: brown;
+}
+#a,#b,#c,#d,#e,#f,#g{
+    color: indigo;
+    background-color:lightcoral;
+}
+*{
+    color: lightskyblue;
+}
+.z{
+    color: goldenrod;
+}
+.h{
+    background-color: bisque;
+}
+.i{
+    color: blueviolet;
+}
+.j{
+    color: coral;
+}
+.k{
+    color: darkmagenta;
+}
+.l{
+    color: darkblue;
+}
+.m{
+    color: darkred;
+}
+#A{
+    color: green;
+}
+#B{
+    color: darkkhaki;
+}
+#C{
+    color: fuchsia;
+}
+#D{
+    color: blue;
+}
+#E{
+    color: chocolate;
+}
+#F{
+    color: chartreuse;
+}
+.S{
+    color: darkslateblue;
+}
